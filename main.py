@@ -1,3 +1,1 @@
-print("Hello world")
-print("hello world")
-print("this is ram")
+print("this is ram file")
